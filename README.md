@@ -1,6 +1,6 @@
-### Hi, nice to see you here 👋
+## Hi, nice to see you here 👋
 
-## Here is what I'm currently working on!
+### Here is what I'm currently working on!
 
 - 🔭 I’m currently working on ... my personal website
 - 🌱 I’m currently learning ... react js
